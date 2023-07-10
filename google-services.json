@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "143489573726",
+    "project_id": "atividadetrivia",
+    "storage_bucket": "atividadetrivia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143489573726:android:50afb308386e3c096865cf",
+        "android_client_info": {
+          "package_name": "com.projetoFinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143489573726-veo82s4jgbvan1rnt1b6m1h4lekd2qdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOfMA6x3GyLjxTixqHrm4qthXby6CEIF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143489573726-veo82s4jgbvan1rnt1b6m1h4lekd2qdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
